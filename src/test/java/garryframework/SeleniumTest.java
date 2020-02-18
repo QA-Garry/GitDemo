@@ -16,5 +16,11 @@ public class SeleniumTest {
 	{
 		System.out.println("WebUiElements");
 	}
+	
+	@Test
+	public void WebUiiiiiElements()
+	{
+		System.out.println("WebUiElements added by american architect");
+	}
 
 }
