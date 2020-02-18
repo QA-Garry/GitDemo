@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="77" started-at="2020-01-21T16:41:02 IST" finished-at="2020-01-21T16:41:03 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="77" started-at="2020-01-21T16:41:02 IST" finished-at="2020-01-21T16:41:03 IST">
+      <class name="garryframework.AppiumTest">
+        <test-method status="PASS" signature="IosApp()[pri:0, instance:garryframework.AppiumTest@2d6eabae]" name="IosApp" duration-ms="1" started-at="2020-01-21T16:41:02 IST" finished-at="2020-01-21T16:41:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IosApp -->
+        <test-method status="PASS" signature="NativeAppAndroid()[pri:0, instance:garryframework.AppiumTest@2d6eabae]" name="NativeAppAndroid" duration-ms="3" started-at="2020-01-21T16:41:02 IST" finished-at="2020-01-21T16:41:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+      </class> <!-- garryframework.AppiumTest -->
+      <class name="garryframework.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:garryframework.SeleniumTest@23faf8f2]" name="BrowserAutomation" duration-ms="11" started-at="2020-01-21T16:41:02 IST" finished-at="2020-01-21T16:41:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="WebUiElements()[pri:0, instance:garryframework.SeleniumTest@23faf8f2]" name="WebUiElements" duration-ms="3" started-at="2020-01-21T16:41:02 IST" finished-at="2020-01-21T16:41:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebUiElements -->
+      </class> <!-- garryframework.SeleniumTest -->
+      <class name="garryframework.RestApiTest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:garryframework.RestApiTest@4e7dc304]" name="deleteTwitter" duration-ms="2" started-at="2020-01-21T16:41:02 IST" finished-at="2020-01-21T16:41:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:garryframework.RestApiTest@4e7dc304]" name="postJira" duration-ms="4" started-at="2020-01-21T16:41:02 IST" finished-at="2020-01-21T16:41:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- garryframework.RestApiTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
